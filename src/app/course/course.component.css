@@ -1,0 +1,16 @@
+.course{
+    background-color: #efefef;
+    padding: 20px 50px;
+}
+.box{
+    background-color: pink;
+    padding: 10px 20px;
+}
+
+@media screen and (max-width:600px){
+    .course{
+        background-color: #efefef;
+        padding: 50px 10px;
+    }
+}
+
